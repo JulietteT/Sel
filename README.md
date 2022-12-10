@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/97oqwymb3428js20?svg=true)](https://ci.appveyor.com/project/JulietteT/sel-trcy3)
+[![Build status](https://ci.appveyor.com/api/projects/status/0m3npfiatgo4g6eb?svg=true)](https://ci.appveyor.com/project/JulietteT/sel-rgp9u)
